@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039276464846",
+    "project_id": "thien-89f9a",
+    "storage_bucket": "thien-89f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039276464846:android:a74c497489891be46d4e9f",
+        "android_client_info": {
+          "package_name": "com.thien"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVtN7NHq-gl-tLeVlF8L4VJ6Y5B49dGqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
